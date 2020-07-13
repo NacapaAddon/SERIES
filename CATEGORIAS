@@ -1,12 +1,78 @@
 <channels>
 <channel>
-<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]#####[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
-<thumbnail>####</thumbnail>
-<externallink>####</externallink>
-<fanart>####</fanart>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]AÇÃO-KIDS[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://ia601402.us.archive.org/12/items/fanart_20200711_2231/a%C3%A7%C3%A3o.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/KIDS/master/A%C3%A7%C3%A3o%20Kids</externallink>
+<fanart>https://ia601402.us.archive.org/12/items/fanart_20200711_2231/fanart.jpg</fanart>
 <info>
 
 
-[COLOR gold]|[/COLOR] - ##### - [COLOR gold]|[/COLOR]</info>
+[COLOR gold]|[/COLOR] - NACAPA ADDON usa link indexado de servidores de hospedagem de filmes e series da Web - [COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]AVENTURA-KIDS[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://ia601502.us.archive.org/20/items/aventura_202007/aventura.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/NacapaAddon/KIDS/master/Aventura%20Kids</externallink>
+<fanart>https://ia601402.us.archive.org/12/items/fanart_20200711_2231/fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] - NACAPA ADDON usa link indexado de servidores de hospedagem de filmes e series da Web - [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]COMÉDIA-KIDS [/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://ia601509.us.archive.org/0/items/comedia_20200712/comedia.png</thumbnail>
+<externallink>####</externallink>
+<fanart>https://ia601402.us.archive.org/12/items/fanart_20200711_2231/fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] - NACAPA ADDON usa link indexado de servidores de hospedagem de filmes e series da Web - [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://ia601506.us.archive.org/23/items/desenhos_20200712_2137/desenhos.png</thumbnail>
+<externallink>####</externallink>
+<fanart>https://ia601402.us.archive.org/12/items/fanart_20200711_2231/fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] - NACAPA ADDON usa link indexado de servidores de hospedagem de filmes e series da Web - [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white]FICÇÃO-KIDS[/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/20/items/romance_202007/fic%C3%A7%C3%A3o.png</thumbnail>
+<externallink>####</externallink>
+<fanart>https://ia601402.us.archive.org/12/items/fanart_20200711_2231/fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] - NACAPA ADDON usa link indexado de servidores de hospedagem de filmes e series da Web - [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
